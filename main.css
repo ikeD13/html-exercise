@@ -1,20 +1,27 @@
 h1 {
-    color: lightblue
-    
+    color: lightblue;
+    text-align: center
 }
 #para1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
 }
 #list1 {
-    color: gold
+    color: gold;
+    text-align: center
+    
 }
 #pic {
     width:500px;
     height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 #list2 {
     color: forestgreen
 }
 #para2 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center
 }
