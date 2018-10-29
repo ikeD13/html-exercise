@@ -3,5 +3,18 @@ h1 {
     
 }
 #para1 {
-    font-family: "Times New Roman", Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#list1 {
+    color: gold
+}
+#pic {
+    width:500px;
+    height:500px;
+}
+#list2 {
+    color: forestgreen
+}
+#para2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
